@@ -7,7 +7,7 @@ The Lorenz attractor is an attractor that arises in a simplified system of equat
 
 3.	dz/dt = xy − bz
 
-The system of diff equations describe 2-D flow of fluid of uniform depth, in other words the equations model the flow of fluid(usually air) from a hot area to a cold area. Where   is proportional to convective intensity,  is prop. to temp diff between descending and ascending currents and  is prop to diff in vertical temp profile from linearity in the system of equations. 
+The system of differences equations describe 2-D flow of fluid of uniform depth, in other words the equations model the flow of fluid(usually air) from a hot area to a cold area. Where it is proportional to convective intensity,  is proportional to temperature differences between descending and ascending currents and  is prop to diff in vertical temp profile from linearity in the system of equations. 
 The solution to the differential equations is a dynamical system aka the Lorenz attractor. The solution can be plotted with varying initial conditions.
 
 -Chaos: aperiodic long-term behavior in a deterministic system that exhibits sensitive dependence on initial conditions.
